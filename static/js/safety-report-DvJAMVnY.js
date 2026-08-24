@@ -1,0 +1,1 @@
+import{A as e,Y as t,w as n}from"./vue.runtime.esm-bundler-DIu5y9Tj.js";import{t as r}from"./_plugin-vue_export-helper-IR_tPfP8.js";import{ia as i,ra as a}from"./index-0RTv-Lsw.js";i();var o={class:`report-page`},s=r(e(a(a({},{name:`SafetyReport`}),{},{__name:`safety-report`,setup(e){return(e,r)=>(t(),n(`div`,o))}})),[[`__scopeId`,`data-v-e8d50f2d`]]);export{s as default};
