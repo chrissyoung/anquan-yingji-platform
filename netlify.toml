@@ -1,0 +1,9 @@
+[build]
+  publish = "."
+  command = ""
+
+# SPA 前端路由：刷新子路由时回落到 index.html，避免 404
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
